@@ -32,7 +32,7 @@ function Brand() {
         R
       </div>
       <div>
-        <div className="font-display text-lg leading-none">Relay</div>
+        <div className="font-display text-lg leading-none">AI Workplace companion</div>
         <div className="text-[11px] tracking-wide text-ink/45">AI Workplace Assistant</div>
       </div>
     </div>
