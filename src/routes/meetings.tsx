@@ -36,7 +36,7 @@ function MeetingsPage() {
             name: "attendees",
             label: "Attendees",
             kind: "text",
-            placeholder: "Maya, Priya, Daniel, Jordan",
+            placeholder: "Thina, Priya, Daniel, Jordan",
           },
           {
             name: "notes",

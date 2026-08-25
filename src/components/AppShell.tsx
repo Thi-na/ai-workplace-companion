@@ -1,6 +1,6 @@
 import { Link } from "@tanstack/react-router";
 import { useState, type ReactNode } from "react";
-import avatar from "@/assets/avatar-maya.jpg";
+import avatar from "@/assets/avatar-thina.jpg";
 import { NAV_ITEMS } from "@/lib/nav";
 
 function NavLinks({ onNavigate }: { onNavigate?: () => void }) {
@@ -62,14 +62,14 @@ export function AppShell({ children }: { children: ReactNode }) {
             <div className="flex items-center gap-3 px-1">
               <img
                 src={avatar}
-                alt="Maya Osei"
+                alt="Thina"
                 loading="lazy"
                 width={512}
                 height={512}
                 className="size-9 rounded-full object-cover outline-1 -outline-offset-1 outline-black/5"
               />
               <div className="min-w-0">
-                <div className="truncate text-sm font-medium">Maya Osei</div>
+                <div className="truncate text-sm font-medium">Thina</div>
                 <div className="truncate text-xs text-ink/45">Product Lead</div>
               </div>
             </div>

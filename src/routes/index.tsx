@@ -34,7 +34,7 @@ function Dashboard() {
     <AppShell>
       <header className="flex flex-wrap items-center justify-between gap-4">
         <div>
-          <div className="text-xs text-ink/40">Good morning, Maya</div>
+          <div className="text-xs text-ink/40">Good morning, Thina</div>
           <h1 className="mt-1 font-display text-3xl leading-tight lg:text-4xl">
             Your productivity, <span className="italic text-sage-deep">amplified.</span>
           </h1>
@@ -104,7 +104,7 @@ function Dashboard() {
                 <br />
                 Best,
                 <br />
-                Maya
+                Thina
               </div>
               <div className="mt-2 flex gap-2">
                 <Link
@@ -137,7 +137,7 @@ function Dashboard() {
                 Action items
               </div>
               <p className="mt-1 text-sm text-ink/80">
-                Maya → draft changelog. Priya → QA pass by Thu.
+                Thina → draft changelog. Priya → QA pass by Thu.
               </p>
             </div>
             <div className="flex items-center justify-between text-xs text-ink/45">
